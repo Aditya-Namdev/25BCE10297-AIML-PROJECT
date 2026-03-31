@@ -50,7 +50,7 @@ Make sure Python is installed on your system.
 
 ### Step 2: Download the Project
 Clone or download this repository:
-git clone <your-repo-link>
+git clone <https://github.com/Aditya-Namdev/25BCE10297-AIML-PROJECT>
 
 ### Step 3: Run the Program
 Open terminal in the project folder and run:
